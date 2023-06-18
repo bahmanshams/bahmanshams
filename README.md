@@ -1,4 +1,4 @@
-
+<a href="https://app.daily.dev/bahmanshams"><img src="https://api.daily.dev/devcards/1a78045589d741f4a31b1435297a4699.png?r=h0t" width="400" alt="Bahman Shams's Dev Card"/></a>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bahmanshamsini/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/BatmanShams007) 
 
@@ -20,9 +20,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=bahmanshams&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=bahmanshams&icon=0&color=0)](https://visitcount.itsvg.in)
